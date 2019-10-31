@@ -1,0 +1,6 @@
+# runns
+
+Simplified runc for centos6 or lower, only provide mountpoint namespace
+The usage same with runc, need config.json and rootfs.
+
+code from runc v1.0.0-rc4(2e7cfe03)
